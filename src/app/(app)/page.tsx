@@ -9,7 +9,7 @@ const Page = () => {
       <main>
         <article>
           <Badge />
-          <h1>Payload 3.0</h1>
+          <h1>props 1.0</h1>
           <p>
             This BETA is rapidly evolving, you can report any bugs against{' '}
             <Link href="https://github.com/payloadcms/payload-3.0-demo/issues" target="_blank">
